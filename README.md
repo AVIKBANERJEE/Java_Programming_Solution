@@ -1,1 +1,1 @@
-# Java_Programming_Solution
+# JAVA_PROGRAMS
